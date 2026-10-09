@@ -2,7 +2,7 @@
 
 Built for the **Hacxlerate - Bytexl Hackathon** (KPMG in India problem statement: *AI-Powered Student Analytics and Success Platform*).
 
-**🔗 Live Demo:** [Open EduNexus AI on Streamlit Cloud](https://student--success--platform-ajpnzmgfwmmgzdhcld7zq5.streamlit.app/)
+**🔗 Live Demo:** [Open EduNexus AI](https://student-success-platform-1.onrender.com/)
 
 ---
 
@@ -96,7 +96,7 @@ Other roles (Administrator, Faculty / Mentor, Placement Officer) need no login.
 ## 📁 Project Structure
 
 ```
-├── README1.md                                    # Project documentation
+├── README.md                                     # Project documentation
 ├── Student360_1000_Enhanced_ML_Dataset-1.xlsx    # Student dataset (1000 students x 45 columns)
 ├── app.py                                        # Main Streamlit application
 ├── config.toml                                   # Streamlit configuration
